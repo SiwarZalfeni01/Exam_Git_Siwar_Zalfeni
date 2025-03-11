@@ -1,0 +1,58 @@
+commit 69553ebe55541a14971ef8997607b03c6d812fa7
+Merge: 7a6aad4 426bee3
+Author: siwar zalfeni <siwaarzelfanitn@gmail.com>
+Date:   Tue Mar 11 11:05:33 2025 +0100
+
+    Merge branch 'main' of https://github.com/SiwarZalfeni01/Exam_Git_Siwar_Zalfeni
+
+commit 7a6aad4226dcb87fd85a7a05ca6811e6ebae4877
+Merge: f499268 2d7d163
+Author: siwar zalfeni <siwaarzelfanitn@gmail.com>
+Date:   Tue Mar 11 11:02:18 2025 +0100
+
+    resolve conflict feature_x and main iin app.py
+
+commit 2d7d163499dbacd3a38719b6bc5e6ecc0f674130
+Author: siwar zalfeni <siwaarzelfanitn@gmail.com>
+Date:   Tue Mar 11 10:21:41 2025 +0100
+
+    ajout du fichier app.py
+    
+    ajout de l'affichage de la date et l'heure
+
+commit f4992680ff25e92cb714c56126006dfff3f35268
+Merge: 904408a a9351f1
+Author: siwar zalfeni <siwaarzelfanitn@gmail.com>
+Date:   Tue Mar 11 10:46:14 2025 +0100
+
+    resolve conflict app.py
+
+commit 904408ab7470165d27f67b9bf6992ff0a8189a16
+Author: siwar zalfeni <siwaarzelfanitn@gmail.com>
+Date:   Tue Mar 11 10:38:19 2025 +0100
+
+    ajout meessage bienvenue a app.py
+
+commit a9351f1fc8cc7dec8d8b0b5f2b02c0e166f27891
+Author: siwar zalfeni <siwaarzelfanitn@gmail.com>
+Date:   Tue Mar 11 10:36:07 2025 +0100
+
+    ajout de l'affichage de la date et l'heure
+
+commit 2447318bb3a33f35a2397f427328a52f439af2e9
+Author: siwar zalfeni <siwaarzelfanitn@gmail.com>
+Date:   Tue Mar 11 10:21:41 2025 +0100
+
+    ajout du fichier app.py
+
+commit 426bee3341c554c4eaeb40057c6fb044af8754e5
+Author: SiwarZalfeni01 <160877944+SiwarZalfeni01@users.noreply.github.com>
+Date:   Tue Mar 11 10:17:12 2025 +0100
+
+    Update README.md
+
+commit 82eed3e0d306bad03ee3ce12c41600d0e94321ca
+Author: SiwarZalfeni01 <160877944+SiwarZalfeni01@users.noreply.github.com>
+Date:   Tue Mar 11 10:10:49 2025 +0100
+
+    Initial commit
